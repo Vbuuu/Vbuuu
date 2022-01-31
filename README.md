@@ -1,10 +1,6 @@
-### Hi there 👋
-
 <!--
 **Vbuuu/Vbuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+   <h1>Block game go brrr</h1>
+   <img alt='Metrics' src='https://github.com/vbuuu/vbuuu/blob/main/github-metrics.svg'>
+</div>
