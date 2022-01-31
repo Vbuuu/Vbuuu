@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 <div align="center">
    <h1>Block game go brrr</h1>
-   <img alt='Metrics' src='https://github.com/vbuuu/vbuuu/blob/main/github-metrics.svg'>
+   <img alt='Metrics' src='https://github.com/vbuuu/vbuuu/github-metric.svg'>
 </div>
