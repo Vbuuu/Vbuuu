@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-   <h1>Block game go brrr</h1>
+   <h1>16x16</h1>
    <img alt='Metrics' src='https://github.com/Vbuuu/Vbuuu/blob/main/github-metrics.svg'
 </div>
